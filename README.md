@@ -8,4 +8,5 @@ Proyek ini juga bertujuan untuk memberikan pengalaman praktis dalam menggunakan 
 
 Karena file proyek ini memiliki ukuran yang besar, file utama disimpan di Google Drive. Anda dapat mengunduhnya dengan mengklik tautan di bawah ini:
 
-[Unduh Proyek di Google Drive Menggunakan Akun Kampus IBI KKG]([https://drive.google.com/link-proyek-anda](https://drive.google.com/file/d/1hcZ2U0pUxzGy2PAA6X-z2qlkW8N7iXRY/view?usp=sharing))
+[Unduh Proyek di Google Drive Menggunakan Akun Kampus IBI KKG]
+https://drive.google.com/file/d/1hcZ2U0pUxzGy2PAA6X-z2qlkW8N7iXRY/view?usp=drive_link
