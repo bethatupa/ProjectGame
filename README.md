@@ -1,4 +1,3 @@
-# ProjectGame
 # Nama: Betha H.E. Tupa
 # NIM: 53210160
 # Aplikasi Perancangan Program Game
